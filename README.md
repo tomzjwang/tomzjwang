@@ -11,5 +11,5 @@ Hi there! I'm Tom Wang, a passionate data analyst who loves uncovering insights 
 - [Employee Analytics Dashboard](https://github.com/tomzjwang/Employee_Analytics_Dashboard)
 - [Post-Pandemic Aviation Trends](https://github.com/tomzjwang/Post-Pandemic_Aviation_Trends)
 ## My Contacts
-- Reach me at tomzjwang@gmail.com
-- Connect with me [LinkedIn](https://www.linkedin.com/in/tomzjwang/)
+- My Gmail: tomzjwang@gmail.com
+- [My LinkedIn](https://www.linkedin.com/in/tomzjwang/)
