@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<center><h1>Hi 👋, I am Tom Wang and I tell stories using data</h1></center>
 <!--
 **tomzjwang/tomzjwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
