@@ -13,3 +13,4 @@ Hi there! I'm Tom Wang, a passionate data analyst who loves uncovering insights 
 ## My Contacts
 - My Gmail: tomzjwang@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/tomzjwang/)
+- [My Resume](https://github.com/user-attachments/files/18709631/Tom_Wang_Resume.pdf)
