@@ -11,7 +11,7 @@ Detail-oriented Data Analyst with 2+ years of experience working with high-volum
 
 I have hands-on experience in:
 - Building interactive Power BI dashboards
-- Cleaning and transforming datasets using Excel and R
+- Cleaning and transforming datasets using Excel, SQL and R
 - Writing SQL queries for structured analysis
 - Implementing validation checks to ensure data accuracy
 
