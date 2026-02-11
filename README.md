@@ -1,4 +1,4 @@
-<center><h1>Hi 👋, I am Tom Wang and I tell stories using data</h1></center>
+<center><h1>Hi 👋, I am Tom and I tell stories using data</h1></center>
 
 ## About Me 
 Hi there! I'm Tom Wang, a passionate data analyst who loves uncovering insights and telling compelling stories through data. I have a solid background in statistical analysis, data visualization with experience in transforming raw data into actionable insights that drive meaningful decisions. I'm currently seeking opportunities to apply my skills and contribute to impactful projects.
