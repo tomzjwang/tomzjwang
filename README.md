@@ -15,7 +15,7 @@ I have hands-on experience in:
 - Writing SQL queries for structured analysis
 - Implementing validation checks to ensure data accuracy
 
-Currently open to data analyst, reporting analyst, and contract opportunities.
+Currently open to data analyst, reporting analyst, contract opportunities and more.
 
 ---
 
