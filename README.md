@@ -10,7 +10,7 @@ I specialize in cleaning, validating, and transforming raw datasets into structu
 Detail-oriented Data Analyst with 2+ years of experience working with high-volume datasets, data validation, and KPI reporting. 
 
 I have hands-on experience in:
-- Building interactive Power BI dashboards using DAX
+- Building interactive Power BI dashboards
 - Cleaning and transforming datasets using Excel and R
 - Writing SQL queries for structured analysis
 - Implementing validation checks to ensure data accuracy
