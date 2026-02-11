@@ -52,5 +52,5 @@ Currently open to data analyst, reporting analyst, and contract opportunities.
 
 📧 Email: tomzjwang@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/tomzjwang/  
-📄 Resume: ([TomWang_Resume.pdf](https://github.com/user-attachments/files/25225477/TomWang_Resume.pdf))
+📄 Resume: [TomWang_Resume.pdf](https://github.com/user-attachments/files/25225477/TomWang_Resume.pdf)
 
